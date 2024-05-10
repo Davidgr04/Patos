@@ -1,0 +1,6 @@
+@Patos_HostAddress = http://localhost:5201
+
+GET {{Patos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
